@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ortizjavier10/deep-thoughts#readme",
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
